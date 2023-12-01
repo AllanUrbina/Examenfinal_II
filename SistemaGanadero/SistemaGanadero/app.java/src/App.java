@@ -196,7 +196,7 @@ public class App {
 
                             if (cantidadRetiradaReal > 0.0) {
                                 System.out.println("Se retiraron: " + cantidadARetirar + " unidades de ganancia.");
-                                // System.out.println("La ganancia restante es: " + cantidadRetiradaReal);
+                                 System.out.println("La ganancia restante es: " + cantidadRetiradaReal);
                             } else {
                                 System.out.println("No se pudo retirar la cantidad solicitada.");
                             }
